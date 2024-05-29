@@ -44,3 +44,17 @@ Answer:
 • Avoid driving during severe weather
 • Keep your phone charged and have a backup power source.
 ```
+
+
+This will become:
+
+```
+$ ml chat llama2 Is nuclear power plant eco-friendly?
+```
+and 
+
+```
+$ ml chat llama2 How to stay safe during severe weather?
+```
+
+
