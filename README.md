@@ -50,11 +50,21 @@ This will become:
 
 ```
 $ ml chat llama2 Is nuclear power plant eco-friendly?
+No, nuclear power plants produce radioactive waste that can harm the environment and human health.
+The process of generating electricity through nuclear reactions also releases greenhouse gases.
+Nuclear power plants require large amounts of water for cooling, which can impact local ecosystems.
+Accidents at nuclear power plants, such as Chernobyl and Fukushima, have had severe environmental and health consequences.
 ```
 and 
 
 ```
 $ ml chat llama2 How to stay safe during severe weather?
+Stay informed through local news and weather alerts
+Create a family emergency plan
+Stock up on essential supplies
+Stay indoors and away from windows
+Avoid driving during severe weather
+Keep your phone charged and have a backup power source.
 ```
 
 
